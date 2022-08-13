@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1622095012 source:c:\users\venji\onedrive\documents\c++projects\inventorysystem\main.cpp
+	<bits/stdc++.h>
+	"book.h"
+	"transaction.h"
+	"csvReadWrite.h"
+
+1620646868 c:\users\venji\onedrive\documents\c++projects\inventorysystem\include\book.h
+
+1620646868 c:\users\venji\onedrive\documents\c++projects\inventorysystem\include\transaction.h
+
+1620646868 c:\users\venji\onedrive\documents\c++projects\inventorysystem\include\csvreadwrite.h
+
+1621471424 source:c:\users\venji\onedrive\documents\c++projects\inventorysystem\src\book.cpp
+	<bits/stdc++.h>
+	"book.h"
+	"transaction.h"
+	"csvReadWrite.h"
+
+1620651805 source:c:\users\venji\onedrive\documents\c++projects\inventorysystem\src\csvreadwrite.cpp
+	<bits/stdc++.h>
+	"book.h"
+	"transaction.h"
+	"csvReadWrite.h"
+
+1620984889 source:c:\users\venji\onedrive\documents\c++projects\inventorysystem\src\transaction.cpp
+	<bits/stdc++.h>
+	"book.h"
+	"transaction.h"
+	"csvReadWrite.h"
+
